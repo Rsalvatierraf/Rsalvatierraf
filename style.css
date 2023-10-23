@@ -1,0 +1,68 @@
+#torta {
+    width: 1000px;
+    position: relative;
+    top: 5px;
+    left: 400px;
+}
+
+
+#Recetitas Lauris {
+    position: relative;
+    top: 300px;
+    right: 50px;
+}
+
+.contenedor {
+    width: 1200px;
+    height: 150px;
+    background: #f1d3ce;
+}
+
+.contenedor-secciones{
+    width: 1200px;
+    height: 100px;
+    background: #197beb;
+}
+
+
+.seccion1{
+    width: 800px;
+    height: 230px;
+    background: #eb6619;
+    float: left;
+}
+
+#porque {
+    float: right;
+    width: 30%;
+    margin-right: 100px;
+}
+
+
+
+body {
+    background: rgb(250, 223, 223);
+
+font-family: Arial, helvetica, sans-serif;
+font-size: 1rem;
+line-height: 1.6em;
+}
+
+<style>
+table, th, td{
+    border: 2px solid black;
+}
+
+
+
+
+.text-center {
+text-align: center;
+}
+
+.footer {
+    background-color: rgb(238, 119, 22);
+    padding: 6px;
+    clear: both;
+    text-align: center;
+}
